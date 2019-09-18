@@ -1,0 +1,7 @@
+C:\ElevenFiftyProjects\01_GoldBadge\Fundamentals\CSharpFundamentals\CSharpFundamentals\bin\Debug\CSharpFundamentals.exe.config
+C:\ElevenFiftyProjects\01_GoldBadge\Fundamentals\CSharpFundamentals\CSharpFundamentals\bin\Debug\CSharpFundamentals.exe
+C:\ElevenFiftyProjects\01_GoldBadge\Fundamentals\CSharpFundamentals\CSharpFundamentals\bin\Debug\CSharpFundamentals.pdb
+C:\ElevenFiftyProjects\01_GoldBadge\Fundamentals\CSharpFundamentals\CSharpFundamentals\obj\Debug\CSharpFundamentals.csprojAssemblyReference.cache
+C:\ElevenFiftyProjects\01_GoldBadge\Fundamentals\CSharpFundamentals\CSharpFundamentals\obj\Debug\CSharpFundamentals.csproj.CoreCompileInputs.cache
+C:\ElevenFiftyProjects\01_GoldBadge\Fundamentals\CSharpFundamentals\CSharpFundamentals\obj\Debug\CSharpFundamentals.exe
+C:\ElevenFiftyProjects\01_GoldBadge\Fundamentals\CSharpFundamentals\CSharpFundamentals\obj\Debug\CSharpFundamentals.pdb
