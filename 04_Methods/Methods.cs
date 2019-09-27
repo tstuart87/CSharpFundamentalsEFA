@@ -7,7 +7,7 @@ namespace _04_Methods
     public class Methods
     {
         [TestMethod]
-        public void MethodsMethods()
+        public void MethodExamples()
         {
             // + = - / * %
 

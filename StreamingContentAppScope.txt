@@ -1,0 +1,23 @@
+We have a really rich guy come to us requesting to build the next big thing. 
+He wants to stream video/tv shows/music information. 
+
+For right now he just wants a console application for proof of concept.
+He wants to be able to:
+	Add a movie
+	Read info about movie
+	Edit the movie
+	Delete the movie
+
+He would also like to be able to store multiple movie when he runs the application.
+He would like this completed by Tuesday of next week.
+
+
+For our Projects/Assembly types we need a Unit Test Project, a Console Application Project,
+and a Class Library Project.
+
+
+
+
+
+Edit movie.
+Read info about movie.	

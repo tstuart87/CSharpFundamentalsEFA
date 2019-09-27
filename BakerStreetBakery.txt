@@ -1,0 +1,43 @@
+A client, Mrs.Hudson, has asked us to make a console application for her bakery.
+She is going to use it as a register system to enter customer orders
+Create a new console application. We are going to name this 
+BakerStreetBakery.
+
+Create a class in this assembly that we name Product
+The client has specified that she organizes her products 
+based on type Bread, Cake, Pastery, Pies (We should probably use an enum here. Maybe name it public enum BakeType{})
+string ProductName
+string CustomerName
+int OrderBatchSize
+decimal OrderCost
+
+(Don't forget about your constructors)
+
+We don't need to unit test the properties for this program.
+Once you have created the class with your properties create a class
+for your repository name this class ProductRepository
+We need a method to: 
+	add to a list
+	get the list
+	remove from list
+	and print the list to view (we have not discussed this yet).
+
+
+She also wants to charge an initial $100 per order and add an additional 
+$500.01 for bread, $2000 for cake, $200.10 for pasteries, and $851.5 for pies(This method should be in our repo)
+
+Once you create your object class and repo, unit test the methods in your 
+repository. Do this in a new Unit Test Project name this 
+BakerStreetBakery_Tests.
+
+If you completed the repository we should have 3 Unit Tests in our unit test project.
+Next create a class named ProgramUI. 
+Create a method named Run(). Go back to the Program class and create an 
+instance of ProgramUI in the static void main method and call the Run method. 
+ProgramUI program = new ProgramUI();
+program.Run();
+
+Write a user interface with a menu for the user which is our client to enter a order from a customer. 
+They need to enter the name of the product such as Cinnamon Roll or Wedding Cake
+The amount needed for the order. 
+The cost will be calculated based on type (our method in the repository).
